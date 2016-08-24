@@ -1,7 +1,21 @@
 # Ember-skeleton
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+##includes 
+* [ember-font-awesome](https://github.com/martndemus/ember-font-awesome)
+* [ember-bootstrap](https://github.com/kaliber5/ember-bootstrap)
+* [ember-cli-less](https://github.com/gdub22/ember-cli-less)
+* [ember-cli-eslint](https://github.com/ember-cli/ember-cli-eslint)(also remove jshint for es7 compatibility)
+* [ember-component-css](https://github.com/ebryn/ember-component-css) Keep css files next to files in pods
+* [ember-localstorage-adapter](https://github.com/locks/ember-localstorage-adapter) 
+* [ember-electron](https://github.com/felixrieseberg/ember-electron)
+* [ember-cli-release](https://github.com/lytics/ember-cli-release)
+* [ember-moment](https://github.com/stefanpenner/ember-moment)
+* [Ember CP Validations](https://github.com/offirgolan/ember-cp-validations)
+* [Ember Page Objects](https://github.com/san650/ember-cli-page-object)Testing
+* [ember-infinity](https://github.com/hhff/ember-infinity)
+* [ember-keyboard](https://github.com/null-null-null/ember-keyboard)
+* [ember-lodash](https://github.com/levanto-financial/ember-lodash) 
+
 
 ## Prerequisites
 
