@@ -1,21 +1,22 @@
 # Ember-skeleton
 
 ##includes 
-* [ember-font-awesome](https://github.com/martndemus/ember-font-awesome)
-* [ember-bootstrap](https://github.com/kaliber5/ember-bootstrap)
-* [ember-cli-less](https://github.com/gdub22/ember-cli-less)
+
+* [ember-font-awesome](https://github.com/martndemus/ember-font-awesome) Easy images font
+* [ember-bootstrap](https://github.com/kaliber5/ember-bootstrap) Styled css
+* [ember-cli-less](https://github.com/gdub22/ember-cli-less) Locate css files next to templatetes in PODs
 * [ember-cli-eslint](https://github.com/ember-cli/ember-cli-eslint)(also remove jshint for es7 compatibility)
 * [ember-component-css](https://github.com/ebryn/ember-component-css) Keep css files next to files in pods
-* [ember-localstorage-adapter](https://github.com/locks/ember-localstorage-adapter) 
-* [ember-electron](https://github.com/felixrieseberg/ember-electron)
-* [ember-cli-release](https://github.com/lytics/ember-cli-release)
-* [ember-moment](https://github.com/stefanpenner/ember-moment)
-* [Ember CP Validations](https://github.com/offirgolan/ember-cp-validations)
+* [ember-localstorage-adapter](https://github.com/locks/ember-localstorage-adapter) Localstorage, don't store anything not encrypted
+* [ember-electron](https://github.com/felixrieseberg/ember-electron) Easy desktop app
+* [ember-cli-release](https://github.com/lytics/ember-cli-release) Deployment 
+* [ember-moment](https://github.com/stefanpenner/ember-moment) js Time helpers
+* [Ember CP Validations](https://github.com/offirgolan/ember-cp-validations) Validate inputs
 * [Ember Page Objects](https://github.com/san650/ember-cli-page-object)Testing
-* [ember-infinity](https://github.com/hhff/ember-infinity)
-* [ember-keyboard](https://github.com/null-null-null/ember-keyboard)
-* [ember-lodash](https://github.com/levanto-financial/ember-lodash) 
-* [ember-simple-auth-token](https://github.com/jpadilla/ember-simple-auth-token)
+* [ember-infinity](https://github.com/hhff/ember-infinity) Infinite scroll
+* [ember-keyboard](https://github.com/null-null-null/ember-keyboard) Use keyboard input
+* [ember-lodash](https://github.com/levanto-financial/ember-lodash) js fp 
+* [ember-simple-auth-token](https://github.com/jpadilla/ember-simple-auth-token) Easy launcher auth
 
 ## Prerequisites
 
