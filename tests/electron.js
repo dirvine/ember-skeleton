@@ -1,5 +1,3 @@
-/* jshint undef: false */
-
 const {BrowserWindow, app} = require('electron');
 
 let mainWindow = null;
@@ -29,4 +27,4 @@ app.on('ready', function onReady() {
     });
 });
 
-/* jshint undef: true */
+

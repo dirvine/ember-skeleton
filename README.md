@@ -15,7 +15,7 @@
 * [ember-infinity](https://github.com/hhff/ember-infinity)
 * [ember-keyboard](https://github.com/null-null-null/ember-keyboard)
 * [ember-lodash](https://github.com/levanto-financial/ember-lodash) 
-
+* [ember-simple-auth-token](https://github.com/jpadilla/ember-simple-auth-token)
 
 ## Prerequisites
 
@@ -36,8 +36,13 @@ You will need the following things properly installed on your computer.
 
 ## Running / Development
 
+###For web interface 
+
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
+
+### Desktop interface
+* ember electron
 
 ### Code Generators
 

@@ -1,4 +1,9 @@
 {
   "name": "ember-electron-test",
-  "main": "electron.js"
+  "main": "electron.js",
+  "env": {
+    "browser": true,
+    "node": true,
+    "jasmine": true
+  }
 }
