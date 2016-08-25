@@ -16,7 +16,7 @@
 * [ember-infinity](https://github.com/hhff/ember-infinity) Infinite scroll
 * [ember-keyboard](https://github.com/null-null-null/ember-keyboard) Use keyboard input
 * [ember-lodash](https://github.com/levanto-financial/ember-lodash) js fp 
-* [ember-simple-auth-token](https://github.com/jpadilla/ember-simple-auth-token) Easy launcher auth
+* [ember-simple-auth](https://github.com/simplabs/ember-simple-auth#ember-simple-auth) Easy launcher auth
 
 ## Prerequisites
 
